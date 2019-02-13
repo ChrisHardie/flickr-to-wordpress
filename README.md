@@ -2,7 +2,7 @@
 
 ## About
 
-This tool will help you use the official Flickr account files to generate files that can then be imported into WordPress.
+This tool will help you use the official Flickr account export to generate files that can then be imported into WordPress.
 
 This is not a "one click" solution. It requires some manual configuration and general comfort with working on the command line. It may not work for your particular Flickr account or WordPress setup without some changes. It may not work at all.
 
